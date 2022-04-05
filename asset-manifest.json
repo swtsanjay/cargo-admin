@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/cargo/admin/static/css/main.950f9711.chunk.css",
-    "main.js": "/cargo/admin/static/js/main.7c0429b9.chunk.js",
-    "main.js.map": "/cargo/admin/static/js/main.7c0429b9.chunk.js.map",
+    "main.js": "/cargo/admin/static/js/main.86822587.chunk.js",
+    "main.js.map": "/cargo/admin/static/js/main.86822587.chunk.js.map",
     "runtime-main.js": "/cargo/admin/static/js/runtime-main.3aeb2f95.js",
     "runtime-main.js.map": "/cargo/admin/static/js/runtime-main.3aeb2f95.js.map",
-    "static/js/2.96cafa25.chunk.js": "/cargo/admin/static/js/2.96cafa25.chunk.js",
-    "static/js/2.96cafa25.chunk.js.map": "/cargo/admin/static/js/2.96cafa25.chunk.js.map",
+    "static/js/2.d4fd6339.chunk.js": "/cargo/admin/static/js/2.d4fd6339.chunk.js",
+    "static/js/2.d4fd6339.chunk.js.map": "/cargo/admin/static/js/2.d4fd6339.chunk.js.map",
     "static/js/3.1595353b.chunk.js": "/cargo/admin/static/js/3.1595353b.chunk.js",
     "static/js/3.1595353b.chunk.js.map": "/cargo/admin/static/js/3.1595353b.chunk.js.map",
     "index.html": "/cargo/admin/index.html",
     "static/css/main.950f9711.chunk.css.map": "/cargo/admin/static/css/main.950f9711.chunk.css.map",
-    "static/js/2.96cafa25.chunk.js.LICENSE.txt": "/cargo/admin/static/js/2.96cafa25.chunk.js.LICENSE.txt"
+    "static/js/2.d4fd6339.chunk.js.LICENSE.txt": "/cargo/admin/static/js/2.d4fd6339.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3aeb2f95.js",
-    "static/js/2.96cafa25.chunk.js",
+    "static/js/2.d4fd6339.chunk.js",
     "static/css/main.950f9711.chunk.css",
-    "static/js/main.7c0429b9.chunk.js"
+    "static/js/main.86822587.chunk.js"
   ]
 }
